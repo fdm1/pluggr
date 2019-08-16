@@ -7,7 +7,7 @@ swap in substitutions at any level.
 
 ## Potential swappable components
 - Cloud provider: can be AWS or GCP (using Terraform for either)
-- Backing database: Postgres, MySql, Mongo?, Terraform?, Random text files on S3???
+- Backing database: Postgres, MySql, Mongo?, Teradata?? (but let's not), random text files on S3???
 - An application layer: Flask, Rails, something in Go or Rust?
 - A fronting proxy: Nginx, whatever nginx's competion is?
 - Memcache: Redis, non-redis?
