@@ -1,0 +1,6 @@
+black
+pytest
+pytest-cov
+pytest-flakes
+pytest-pep8
+
